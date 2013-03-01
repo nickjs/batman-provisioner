@@ -1,0 +1,2 @@
+module AppFilesHelper
+end
